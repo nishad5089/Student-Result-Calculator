@@ -1,0 +1,10 @@
+ID,Name,Bangla,English,Math,Religion
+01,Asif,82,67,98,89
+02,Duggu Fahim,72,87,89,45
+03,Nishad,100,100,100,90
+04,Tajbir,23,55,78,66
+05,Abir,33,66,56,43
+06,Faisal,56,66,33,80
+07,Ishmam,67,66,23,23
+08,Mehedi,33,88,56,90
+09,Fahad,90,77,56,45
